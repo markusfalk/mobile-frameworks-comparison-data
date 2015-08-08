@@ -3,7 +3,9 @@ JSON for the Mobile Frameworks Comparison Chart
 
 ## Participate
 
-Would you like to add your framework to the comparison chart? No Problem! All you have to do is create a pull request and let me know what you would like to change.
+Would you like to add your framework to the comparison chart? Do you want to contribute to the data that is already gathered?
+
+No Problem! All you have to do is create a pull request and let me know what you would like to change.
 
 Below you find the documentation for the JSON file.
 
