@@ -124,10 +124,10 @@ Possible values for those attributes are:
 ```json
 true: your framework supports this attribute (platform, hardware feature, ...).
 false: your framework does NOT support this attribute (platform, hardware feature, ...).
-partially: your framework supports a certain attribute only partially. E.g.: it is true that your framework supports access to information about the current network but maybe only for wlan and not about 3G.
-via: your framework supports a certain attribute but only via plugin.
-soon: your framework does not support this attribute but it is already on your roadmap and will be implemented soon.
-none: you cannot provide any information about this attribute or a certain attribute is not applicable.
+'partially': your framework supports a certain attribute only partially. E.g.: it is true that your framework supports access to information about the current network but maybe only for wlan and not about 3G.
+'via': your framework supports a certain attribute but only via plugin.
+'soon': your framework does not support this attribute but it is already on your roadmap and will be implemented soon.
+'none': you cannot provide any information about this attribute or a certain attribute is not applicable.
 ```
 
 Missing attributes or empty values will be interpreted as "false". Saves bandwidth for all attributes you want to be "false".
