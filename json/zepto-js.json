@@ -11,21 +11,21 @@
 
   "android":"true",
 
-  "windowsmobile":"false",
+
 
   "windowsphone":"false",
 
   "blackberry":"true",
 
-  "symbian":"true",
 
-  "meego":"false",
 
-  "maemo":"false",
 
-  "webos":"true",
 
-  "bada":"true",
+
+
+
+
+
 
   "mobilewebsite":"true",
 
@@ -45,7 +45,7 @@
 
   "ruby":"false",
 
-  "actionscript":"false",
+
 
   "csharp":"false",
 

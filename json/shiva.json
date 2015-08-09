@@ -8,11 +8,11 @@
 "windowsmobile":"",
 "windowsphone":"soon",
 "blackberry":"true",
-"symbian":"partially",
+ 
 "meego":"",
 "maemo":"",
-"webos":"true",
-"bada":"partially",
+ 
+ 
 "javame":"",
 "mobilewebsite":"",
 "webapp":"partially",
@@ -21,7 +21,7 @@
 "php":"",
 "java":"partially",
 "ruby":"",
-"actionscript":"partially",
+ 
 "csharp":"",
 "lua":"true",
 "html":"",

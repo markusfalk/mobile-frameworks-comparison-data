@@ -12,22 +12,22 @@
 
   "android":"true",
 
-  "windowsmobile":"false",
+
 
   "windowsphone":"false",
 
   "blackberry":"false",
 
 
-  "meego":"false",
 
-  "maemo":"false",
 
-  "webos":"false",
 
-  "bada":"false",
 
-  "javame":"false",
+
+
+
+
+
 
   "mobilewebsite":"false",
 
@@ -43,7 +43,7 @@
 
   "ruby":"false",
 
-  "actionscript":"false",
+
 
   "csharp":"false",
 
