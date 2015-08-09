@@ -6,8 +6,8 @@
 "ios":"true",
 "android":"true",
  
-"windowsphone":"false",
-"blackberry":"false",
+ 
+ 
  
  
  
@@ -18,16 +18,16 @@
 "webapp":"true",
 "nativeapp":"true",
 "hybridapp":"true",
-"php":"false",
-"java":"false",
-"ruby":"false",
  
-"csharp":"false",
-"lua":"false",
+ 
+ 
+ 
+ 
+ 
 "html":"true",
 "css":"true",
 "js":"true",
-"cplusplus":"false",
+ 
 "visualeditor":"true",
 "accelerometer":"true",
 "camera":"true",
@@ -43,15 +43,15 @@
 "storage":"true",
 "gestures_multitouch":"soon",
 "messages_telephone":"true",
-"bluetooth":"false",
+ 
 "nfc":"true",
 "vibration":"true",
 "cd":"true",
 "widgets":"true",
-"accessibility":"false",
-"sdk":"false",
+ 
+ 
 "encryption":"true",
-"ads":"false",
+ 
 "free":"true",
 "opensource":"false"
 }

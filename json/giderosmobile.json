@@ -6,35 +6,35 @@
 "ios":"true",
 "android":"true",
  
-"windowsphone":"false",
-"blackberry":"false",
  
  
  
  
  
  
-"mobilewebsite":"false",
-"webapp":"false",
+ 
+ 
+ 
+ 
 "nativeapp":"true",
-"hybridapp":"false",
-"php":"false",
-"java":"false",
-"ruby":"false",
  
-"csharp":"false",
+ 
+ 
+ 
+ 
+ 
 "lua":"true",
-"html":"false",
-"css":"false",
-"js":"false",
-"cplusplus":"false",
-"visualeditor":"false",
+ 
+ 
+ 
+ 
+ 
 "accelerometer":"true",
 "camera":"true",
 "capture":"true",
 "compass":"true",
 "connection":"true",
-"contacts":"false",
+ 
 "device":"true",
 "nativeevents":"true",
 "file":"true",
@@ -48,7 +48,7 @@
 "vibration":"true",
 "cd":"true",
 "widgets":"true",
-"accessibility":"false",
+ 
 "sdk":"true",
 "encryption":"true",
 "ads":"true",

@@ -7,15 +7,15 @@
 "android":"true",
  
 "windowsphone":"soon",
-"blackberry":"false",
  
  
  
  
  
  
-"mobilewebsite":"false",
-"webapp":"false",
+ 
+ 
+ 
 "nativeapp":"true",
 "hybridapp":"true",
 "php":"true",

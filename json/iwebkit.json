@@ -6,7 +6,7 @@
 "ios":"true",
 "android":"partially",
  
-"windowsphone":"false",
+ 
 "blackberry":"partially",
  
  
@@ -15,37 +15,37 @@
  
 "mobilewebsite":"true",
 "webapp":"true",
-"nativeapp":"false",
-"hybridapp":"false",
+ 
+ 
 "free":"partially",
 "opensource":"true",
-"php":"false",
-"java":"false",
-"ruby":"false",
  
-"csharp":"false",
-"lua":"false",
+ 
+ 
+ 
+ 
+ 
 "html":"true",
 "css":"true",
 "js":"true",
 "accelerometer":"true",
-"camera":"false",
-"capture":"false",
-"compass":"false",
-"connection":"false",
-"contacts":"false",
+ 
+ 
+ 
+ 
+ 
 "device":"true",
-"nativeevents":"false",
-"file":"false",
+ 
+ 
 "geolocation":"true",
-"notification":"false",
+ 
 "storage":"true",
 "gestures_multitouch":"true",
 "messages_telephone":"true",
-"bluetooth":"false",
-"nfc":"false",
-"vibration":"false",
+ 
+ 
+ 
 "cd":"partially",
-"widgets":"false",
+ 
 "accessibility":"false"
 }

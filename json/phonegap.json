@@ -37,11 +37,11 @@
 
 
 
-  "mobilewebsite":"false",
 
-  "webapp":"false",
 
-  "nativeapp":"false",
+
+
+
 
   "hybridapp":"true",
 
@@ -49,17 +49,17 @@
 
   "opensource":"true",
 
-  "php":"false",
-
-  "java":"false",
-
-  "ruby":"false",
 
 
 
-  "csharp":"false",
 
-  "lua":"false",
+
+
+
+
+
+
+
 
   "html":"true",
 
@@ -93,17 +93,17 @@
 
   "gestures_multitouch":"true",
 
-  "messages_telephone":"false",
 
-  "bluetooth":"false",
 
-  "nfc":"false",
+
+
+
 
   "vibration":"true",
 
   "cd":"true",
 
-  "widgets":"false",
+
 
   "accessibility":"false"
 }

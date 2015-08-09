@@ -13,9 +13,9 @@
 
 
 
-  "windowsphone":"false",
 
-  "blackberry":"false",
+
+
 
 
 
@@ -31,27 +31,27 @@
 
   "webapp":"true",
 
-  "nativeapp":"false",
 
-  "hybridapp":"false",
+
+
 
   "free":"true",
 
   "opensource":"true",
 
-  "php":"false",
+
 
   "java":"true",
 
-  "ruby":"false",
 
 
 
-  "csharp":"false",
 
-  "lua":"false",
 
-  "html":"false",
+
+
+
+
 
   "css":"true",
 
@@ -83,13 +83,13 @@
 
   "gestures_multitouch":"true",
 
-  "messages_telephone":"false",
 
-  "bluetooth":"false",
 
-  "nfc":"false",
 
-  "vibration":"false",
+
+
+
+
 
   "cd":"true",
 

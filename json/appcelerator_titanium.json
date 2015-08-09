@@ -14,9 +14,6 @@
 
 
 
-  "windowsphone":"false",
-
-  "blackberry":"false",
 
 
 
@@ -29,25 +26,28 @@
 
 
 
-  "mobilewebsite":"false",
 
-  "webapp":"false",
+
+
+
+
+
 
   "nativeapp":"true",
 
-  "hybridapp":"false",
+
 
   "php":"true",
 
-  "java":"false",
-
-  "ruby":"false",
 
 
 
-  "csharp":"false",
 
-  "lua":"false",
+
+
+
+
+
 
   "html":"true",
 
@@ -55,9 +55,9 @@
 
   "js":"true",
 
-  "cplusplus":"false",
 
-  "visualeditor":"false",
+
+
 
   "accelerometer":"true",
 
@@ -87,17 +87,17 @@
 
   "messages_telephone":"none",
 
-  "bluetooth":"false",
 
-  "nfc":"false",
+
+
 
   "vibration":"true",
 
   "cd":"true",
 
-  "widgets":"false",
 
-  "accessibility":"false",
+
+
 
   "sdk":"none",
 

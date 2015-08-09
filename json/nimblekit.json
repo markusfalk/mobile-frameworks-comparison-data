@@ -6,24 +6,24 @@
 "ios":"true",
 "android":"soon",
  
-"windowsphone":"false",
-"blackberry":"false",
  
  
  
  
  
  
-"mobilewebsite":"false",
-"webapp":"false",
+ 
+ 
+ 
+ 
 "nativeapp":"true",
 "hybridapp":"true",
-"php":"false",
-"java":"partially",
-"ruby":"false",
  
-"csharp":"false",
-"lua":"false",
+"java":"partially",
+ 
+ 
+ 
+ 
 "html":"true",
 "css":"true",
 "js":"true",
@@ -47,10 +47,10 @@
 "vibration":"true",
 "cd":"true",
 "widgets":"true",
-"accessibility":"false",
+ 
 "sdk":"true",
 "encryption":"soon",
 "ads":"true",
-"free":"false",
+ 
 "opensource":"false"
 }

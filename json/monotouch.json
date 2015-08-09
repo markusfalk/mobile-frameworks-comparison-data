@@ -7,28 +7,28 @@
 "android":"partially",
  
 "windowsphone":"partially",
-"blackberry":"false",
  
  
  
  
  
  
-"mobilewebsite":"false",
-"webapp":"false",
+ 
+ 
+ 
 "nativeapp":"true",
 "hybridapp":"true",
-"php":"false",
-"java":"false",
-"ruby":"false",
+ 
+ 
+ 
  
 "csharp":"true",
-"lua":"false",
+ 
 "html":"partially",
 "css":"partially",
 "js":"partially",
 "cplusplus":"partially",
-"visualeditor":"false",
+ 
 "accelerometer":"true",
 "camera":"true",
 "capture":"true",
@@ -52,6 +52,6 @@
 "sdk":"true",
 "encryption":"true",
 "ads":"true",
-"free":"false",
+ 
 "opensource":"false"
 }

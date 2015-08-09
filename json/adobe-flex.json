@@ -25,7 +25,7 @@
 
   "android": "true",
 
-  "windowsphone":"false",
+   
 
   "blackberry":"true",
 
@@ -44,21 +44,21 @@
   "opensource":"true",
 
 
-  "php":"false",
+   
 
-  "java":"false",
+   
 
-  "ruby":"false",
+   
 
-  "csharp":"false",
+   
 
-  "lua":"false",
+   
 
-  "html":"false",
+   
 
-  "css":"false",
+   
 
-  "js":"false",
+   
 
   "cplusplus":"true",
 

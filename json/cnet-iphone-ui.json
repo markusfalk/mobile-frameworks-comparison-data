@@ -13,7 +13,7 @@
 
    
 
-  "windowsphone":"false",
+
 
   "blackberry":"true",
 
@@ -31,25 +31,25 @@
 
   "webapp":"true",
 
-  "nativeapp":"false",
 
-  "hybridapp":"false",
+
+
 
   "free":"true",
 
   "opensource":"true",
 
-  "php":"false",
-
-  "java":"false",
-
-  "ruby":"false",
 
 
 
-  "csharp":"false",
 
-  "lua":"false",
+
+
+
+
+
+
+
 
   "html":"true",
 
@@ -57,39 +57,39 @@
 
   "js":"true",
 
-  "accelerometer":"false",
 
-  "camera":"false",
 
-  "capture":"false",
 
-  "compass":"false",
 
-  "connection":"false",
 
-  "contacts":"false",
+
+
+
+
+
+
 
   "device":"via",
 
-  "nativeevents":"false",
 
-  "file":"false",
 
-  "geolocation":"false",
 
-  "notification":"false",
 
-  "storage":"false",
 
-  "gestures_multitouch":"false",
 
-  "messages_telephone":"false",
 
-  "bluetooth":"false",
 
-  "nfc":"false",
 
-  "vibration":"false",
+
+
+
+
+
+
+
+
+
+
 
   "cd":"true",
 

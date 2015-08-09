@@ -6,23 +6,23 @@
 
 "ios":"true",
 "android":"true",
-"windowsphone":"false",
+
 "blackberry":"true",
 
 "mobilewebsite":"true",
 "webapp":"true",
-"nativeapp":"false",
-"hybridapp":"via",
-"php":"false",
-"java":"false",
-"ruby":"false",
 
-"csharp":"false",
-"lua":"false",
+"hybridapp":"via",
+
+
+
+
+
+
 "html":"true",
 "css":"true",
 "js":"true",
-"cplusplus":"false",
+
 "visualeditor":"via",
 "accelerometer":"via",
 "camera":"via",
@@ -37,16 +37,16 @@
 "notification":"via",
 "storage":"via",
 "gestures_multitouch":"true",
-"messages_telephone":"false",
-"bluetooth":"false",
-"nfc":"false",
+
+
+
 "vibration":"via",
 "cd":"true",
 "widgets":"true",
 "accessibility":"partially",
-"sdk":"false",
-"encryption":"false",
-"ads":"false",
+
+
+
 "free":"true",
 "opensource":"true"
 }

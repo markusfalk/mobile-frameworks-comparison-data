@@ -9,13 +9,6 @@
 
   "ios":"true",
 
-  "android":"false",
-
-
-
-  "windowsphone":"false",
-
-  "blackberry":"false",
 
 
 
@@ -27,55 +20,62 @@
 
 
 
-  "mobilewebsite":"false",
 
-  "webapp":"false",
 
-  "nativeapp":"false",
+
+
+
+
+
+
+
+
+
+
 
   "hybridapp":"true",
 
-  "free":"false",
-
-  "opensource":"false",
-
-  "php":"false",
-
-  "java":"false",
-
-  "ruby":"false",
 
 
 
-  "csharp":"false",
 
-  "lua":"false",
 
-  "html":"false",
 
-  "css":"false",
 
-  "js":"false",
 
-  "accelerometer":"false",
 
-  "camera":"false",
 
-  "capture":"false",
 
-  "compass":"false",
 
-  "connection":"false",
 
-  "contacts":"false",
 
-  "device":"false",
 
-  "nativeevents":"false",
 
-  "file":"false",
 
-  "geolocation":"false",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   "notification":"",
 

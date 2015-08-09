@@ -14,21 +14,21 @@
  
  
  
-"mobilewebsite":"false",
+ 
 "webapp":"true",
 "nativeapp":"true",
 "hybridapp":"true",
-"php":"false",
-"java":"false",
-"ruby":"false",
  
-"csharp":"false",
+ 
+ 
+ 
+ 
 "lua":"true",
 "html":"true",
 "css":"true",
 "js":"true",
 "cplusplus":"true",
-"visualeditor":"false",
+ 
 "accelerometer":"true",
 "camera":"true",
 "capture":"true",
@@ -42,13 +42,13 @@
 "notification":"true",
 "storage":"true",
 "gestures_multitouch":"true",
-"messages_telephone":"false",
-"bluetooth":"false",
-"nfc":"false",
+ 
+ 
+ 
 "vibration":"true",
-"cd":"false",
-"widgets":"false",
-"accessibility":"false",
+ 
+ 
+ 
 "sdk":"true",
 "encryption":"true",
 "ads":"true",

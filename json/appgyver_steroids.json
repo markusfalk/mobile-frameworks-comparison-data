@@ -11,27 +11,27 @@
 "ios":"true",
 "android":"true",
  
-"windowsphone":"false",
-"blackberry":"false",
  
  
  
  
  
-"mobilewebsite":"false",
-"webapp":"false",
-"nativeapp":"false",
+ 
+ 
+ 
+ 
+ 
 "hybridapp":"true",
-"php":"false",
-"java":"false",
-"ruby":"false",
  
-"csharp":"false",
-"lua":"false",
+ 
+ 
+ 
+ 
+ 
 "html":"true",
 "css":"true",
 "js":"true",
-"cplusplus":"false",
+ 
 "accelerometer":"via",
 "camera":"via",
 "capture":"via",
@@ -51,10 +51,10 @@
 "vibration":"via",
 "cd":"true",
 "widgets":"true",
-"accessibility":"false",
-"sdk":"false",
+ 
+ 
 "ads":"true",
-"encryption":"false",
+ 
 "free":"true",
 "opensource":""
 }

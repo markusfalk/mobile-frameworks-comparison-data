@@ -27,29 +27,29 @@
 
 
 
-  "mobilewebsite":"false",
 
-  "webapp":"false",
+
+
 
   "nativeapp":"true",
 
-  "hybridapp":"false",
+
 
   "free":"true",
 
   "opensource":"true",
 
-  "php":"false",
 
-  "java":"false",
+
+
 
   "ruby":"true",
 
 
 
-  "csharp":"false",
 
-  "lua":"false",
+
+
 
   "html":"true",
 
