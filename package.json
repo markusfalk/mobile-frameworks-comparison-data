@@ -1,0 +1,25 @@
+{
+  "name": "mobile-frameworks-comparison-data",
+  "version": "0.0.0",
+  "description": "JSON for the Mobile Frameworks Comparison Chart",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-jsonlint": "^1.0.4"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markusfalk/mobile-frameworks-comparison-data.git"
+  },
+  "author": "mail@markus-falk.com",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/markusfalk/mobile-frameworks-comparison-data/issues"
+  },
+  "homepage": "https://github.com/markusfalk/mobile-frameworks-comparison-data"
+}
