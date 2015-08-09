@@ -1,62 +1,113 @@
 {
   "framework":"Apache Flex",
+
   "url":"http://flex.apache.org/",
+
   "framework_current_version":"4",
+
   "comparison_data_last_update":"09.08.2015",
 
+
   "tutorial_url": "",
+
   "license": "apache-license-2.0-(apache-2.0)",
+
   "video_url": "",
+
   "book": "",
+
   "documentation_url": "",
 
+
   "ios": "true",
+
   "watchos": "false",
+
   "android": "true",
+
   "windowsphone":"false",
+
   "blackberry":"true",
 
+
   "mobilewebsite":"true",
+
   "webapp":"true",
+
   "nativeapp":"true",
+
   "hybridapp":"true",
 
+
   "free":"true",
+
   "opensource":"true",
 
+
   "php":"false",
+
   "java":"false",
+
   "ruby":"false",
+
   "csharp":"false",
+
   "lua":"false",
+
   "html":"false",
+
   "css":"false",
+
   "js":"false",
+
   "cplusplus":"true",
 
+
   "accelerometer":"true",
+
   "camera":"true",
+
   "capture":"true",
+
   "compass":"true",
+
   "connection":"true",
+
   "contacts":"via",
+
   "device":"true",
+
   "nativeevents":"true",
+
   "file":"true",
+
   "geolocation":"true",
+
   "notification":"via",
+
   "storage":"true",
+
   "gestures_multitouch":"true",
+
   "messages_telephone":"true",
+
   "bluetooth":"via",
+
   "nfc":"via",
+
   "vibration":"via",
 
+
   "cd":"true",
+
   "widgets":"true",
 
+
   "accessibility":"true",
+
   "sdk":"true",
+
   "ads":"partially",
+
   "encryption":"true"
 }
