@@ -1,1 +1,23 @@
-null
+{
+  "comparison_data_last_update" : "",
+  "framework_current_version" : "",
+  "framework": "Smartface",
+  "url": "http://www.smartface.io/",
+
+  "book": "",
+  "documentation_url": "http://docs.smartface.io/",
+  "license": "",
+  "tutorial_url": "http://www.smartface.io/developer/guides/",
+  "video_url": "https://youtu.be/ymuQYFmM4h8",
+
+  "android": "true",
+  "ios": "true",
+
+  "hybridapp": "true",
+
+  "js": "true",
+  "visualeditor": "true",
+
+  "free": "false",
+  "opensource": ""
+}

@@ -11,6 +11,7 @@
   "documentation_url":"http://docs.phonegap.com/",
 
   "ios":"true",
+  "watchos": "via",
   "android":"true",
   "windowsphone":"true",
   "blackberry":"true",
@@ -24,6 +25,7 @@
   "html":"true",
   "css":"true",
   "js":"true",
+
   "accelerometer":"true",
   "camera":"true",
   "capture":"true",
