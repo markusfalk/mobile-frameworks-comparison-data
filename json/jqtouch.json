@@ -1,5 +1,5 @@
 {
-  "framework":"JQ Touch*",
+  "framework":"JQ Touch",
 
   "url":"http://jqtouch.com/",
 
@@ -13,43 +13,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   "mobilewebsite":"true",
-
   "webapp":"true",
 
-
-
-
-
   "free":"true",
-
   "opensource":"true",
-
-
-
-
-
-
-
-
-
-
-
-
 
   "html":"true",
 

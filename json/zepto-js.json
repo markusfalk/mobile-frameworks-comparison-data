@@ -1,99 +1,28 @@
 {
-  "framework":"Zepto.js*",
-
+  "framework":"Zepto.js",
   "url":"http://zeptojs.com/",
-
   "framework_current_version":"",
-
   "comparison_data_last_update":"",
 
+  "book": "",
+  "documentation_url": "http://zeptojs.com/",
+  "license": "mit-license",
+  "tutorial_url": "",
+  "video_url": "",
+
   "ios":"true",
-
   "android":"true",
-
-
-
-
-
   "blackberry":"true",
-
-
-
-
-
-
-
-
-
-
+  "firefoxos": "true",
 
   "mobilewebsite":"true",
-
   "webapp":"true",
 
-
-
-
-
   "free":"true",
-
   "opensource":"true",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   "js":"true",
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   "cd":"true",
-
-
-
   "accessibility":"false"
 }

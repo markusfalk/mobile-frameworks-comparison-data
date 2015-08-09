@@ -1,99 +1,35 @@
 {
-  "framework":"Sencha Touch*",
-
+  "framework":"Sencha Touch",
   "url":"http://www.sencha.com/products/touch/",
-
   "framework_current_version":"",
-
   "comparison_data_last_update":"",
 
+  "book": "",
+  "documentation_url": "http://docs.sencha.com/touch/",
+  "license": "",
+  "tutorial_url": "http://docs.sencha.com/touch/2.4/getting_started/getting_started.html",
+  "video_url": "https://www.sencha.com/videos/creating-custom-layouts-in-ext-js-and-sencha-touch/",
+
   "ios":"true",
-
   "android":"true",
-
-
-
   "windowsphone":"true",
-
   "blackberry":"true",
 
-
-
-
-
-
-
-
-
-
-
   "mobilewebsite":"true",
-
   "webapp":"true",
 
-
-
-
-
   "free":"true",
-
   "opensource":"true",
 
-
-
-
-
-
-
-
-
-
-
-
-
   "html":"true",
-
   "css":"true",
-
   "js":"true",
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   "geolocation":"true",
-
-
-
   "storage":"true",
-
   "gestures_multitouch":"true",
 
-
-
-
-
-
-
-
-
   "cd":"true",
-
   "widgets":"true",
-
   "accessibility":"false"
 }
