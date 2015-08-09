@@ -1,0 +1,25 @@
+{
+  "comparison_data_last_update" : "",
+  "framework_current_version" : "",
+  "framework": "ionic",
+  "url": "http://ionicframework.com/",
+
+  "book": "978-1633430082",
+  "documentation_url": "http://ionicframework.com/docs/",
+  "license": "",
+  "tutorial_url": "http://ionicframework.com/getting-started/",
+  "video_url": "",
+
+  "android": "true",
+  "ios": "true",
+
+  "webapp": "true",
+
+  "css": "true",
+  "html": "true",
+  "js": "true",
+
+  "cd": "true",
+  "widgets": "true"
+
+}
