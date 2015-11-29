@@ -1,0 +1,45 @@
+{
+  "framework":"Onsen UI",
+  "url":"http://www.onsen.io/",
+  "framework_current_version":"1.3.13",
+  "comparison_data_last_update":"",
+
+  "tutorial_url":"http://onsen.io/blog/",
+  "license":"apache-license-2.0-(apache-2.0)",
+  "documentation_url":"http://onsen.io/docs.html",
+
+  "ios":"true",
+  "android":"true",
+  "windowsphone":"true",
+
+  "mobilewebsite":"true",
+  "webapp":"true",
+  "hybridapp":"true",
+
+  "free":"true",
+  "opensource":"true",
+
+  "html":"true",
+  "css":"true",
+  "js":"true",
+
+  "accelerometer":"true",
+  "camera":"true",
+  "capture":"true",
+  "compass":"true",
+  "connection":"true",
+  "contacts":"true",
+  "device":"true",
+  "nativeevents":"true",
+  "file":"true",
+  "geolocation":"true",
+  "notification":"true",
+  "storage":"true",
+  "gestures_multitouch":"true",
+  "vibration":"true",
+
+  "cd":"true",
+  "accessibility":"true",
+
+  "ads":"true",
+}
