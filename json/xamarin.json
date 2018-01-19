@@ -18,6 +18,7 @@
   "hybridapp": "true",
 
   "csharp": "true",
+  "fsharp": "true",
 
   "accelerometer": "true",
   "bluetooth": "true",

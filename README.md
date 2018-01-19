@@ -54,6 +54,7 @@ Below you find the documentation for the JSON file.
 "cplusplus"
 "csharp"
 "css"
+"fsharp"
 "html"
 "java"
 "js"
