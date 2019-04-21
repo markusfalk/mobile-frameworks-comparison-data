@@ -1,0 +1,9 @@
+{
+  "documentation": "https://flex.apache.org/doc-getstarted.html",
+  "languages": ["actionscript"],
+  "name": "Apache Flex",
+  "platforms": ["ios", "android", "blackberryos"],
+  "tutorial": "https://flex.apache.org/flexunit/tutorial/",
+  "video": "https://flex.apache.org/doc-videos.html",
+  "website": "http://flex.apache.org/"
+}
