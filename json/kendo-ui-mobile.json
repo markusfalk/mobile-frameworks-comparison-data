@@ -1,36 +1,6 @@
 {
-"framework":"Kendo UI",
-"url":"http://www.kendoui.com",
-"framework_current_version":"",
-"comparison_data_last_update":"",
-
-"book": "",
-"documentation_url": "http://docs.telerik.com/",
-"license": "",
-"tutorial_url": "http://www.telerik.com/support",
-"video_url": "http://www.telerik.com/videos",
-
-"ios":"true",
-"android":"true",
-"windowsphone":"true",
-"blackberry":"true",
-
-"mobilewebsite":"true",
-"webapp":"true",
-"hybridapp":"true",
-
-"php":"true",
-"java":"true",
-"ruby":"partially",
-"csharp":"true",
-"html":"true",
-"css":"true",
-"js":"true",
-"visualeditor":"true",
-
-"gestures_multitouch":"true",
-"widgets":"true",
-"accessibility":"true",
-"opensource":"partially"
-
+  "documentation": "https://www.telerik.com/kendo-ui",
+  "languages": ["javascript", "html", "css"],
+  "name": "Kendo UI",
+  "platforms": ["ios", "android"]
 }

@@ -1,0 +1,8 @@
+{
+  "documentation": "https://composer-docs.appgyver.com/docs",
+  "languages": [ "javascript", "visual" ],
+  "name": "AppGyver Steroids",
+  "platforms": ["ios", "android"],
+  "video": "https://www.youtube.com/user/appgyverinc",
+  "website": "https://www.appgyver.com"
+}

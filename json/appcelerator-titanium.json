@@ -1,0 +1,10 @@
+{
+  "documentation": "https://docs.axway.com",
+  "book": "https://devblog.axway.com/mobile-apps/5-books-to-help-you-master-titanium/",
+  "languages": ["javascript", "html", "css"],
+  "name": "Appcelerator Titanium Mobile",
+  "platforms": ["ios", "android", "blackberryos", "windowsphone" ],
+  "tutorial": "https://tutorials.axway.com",
+  "video": "https://www.youtube.com/user/Appcelerator",
+  "website": "http://www.appcelerator.com/"
+}
