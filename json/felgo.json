@@ -1,0 +1,7 @@
+{
+  "documentation": "https://felgo.com/doc/",
+  "languages": ["javascript", "qml"],
+  "platforms": ["ios", "android", "macos", "windowsphone", "windows", "linux", "raspberry"],
+  "name":"Felgo",
+  "website":"https://felgo.com"
+}

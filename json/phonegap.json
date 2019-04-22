@@ -1,46 +1,9 @@
 {
-  "framework":"PhoneGap",
-  "url":"http://www.phonegap.com/",
-  "framework_current_version":"",
-  "comparison_data_last_update":"",
-
-  "tutorial_url":"http://phonegap.com/blog/tag/tutorial/",
-  "license":"apache-license-2.0-(apache-2.0)",
-  "video_url":"https://www.youtube.com/watch?v=wOH4aGows40",
-  "book":"B007NLD2OA",
-  "documentation_url":"http://docs.phonegap.com/",
-
-  "ios":"true",
-  "watchos": "via",
-  "android":"true",
-  "windowsphone":"true",
-  "blackberry":"true",
-  "firefoxos": "true",
-
-  "hybridapp":"true",
-
-  "free":"true",
-  "opensource":"true",
-
-  "html":"true",
-  "css":"true",
-  "js":"true",
-
-  "accelerometer":"true",
-  "camera":"true",
-  "capture":"true",
-  "compass":"true",
-  "connection":"true",
-  "contacts":"true",
-  "device":"true",
-  "nativeevents":"true",
-  "file":"true",
-  "geolocation":"true",
-  "notification":"true",
-  "storage":"true",
-  "gestures_multitouch":"true",
-  "vibration":"true",
-
-  "cd":"true",
-  "accessibility":"false"
+  "documentation": "http://docs.phonegap.com/",
+  "book": "https://phonegap.com/book/",
+  "languages": ["javascript", "html", "css"],
+  "name": "Adobe PhoneGap",
+  "platforms": ["ios", "android"],
+  "tutorial": "https://www.phonegap.com/getstarted/",
+  "website": "https://www.phonegap.com"
 }

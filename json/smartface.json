@@ -1,0 +1,8 @@
+{
+  "documentation": "http://ref.smartface.io/",
+  "name": "Smartface",
+  "website": "http://www.smartface.io/",
+  "languages": ["visual"],
+  "platforms": ["ios", "android"],
+  "tutorial": "https://www.smartface.io/smartface/"
+}

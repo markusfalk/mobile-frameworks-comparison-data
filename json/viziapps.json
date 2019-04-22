@@ -1,57 +1,7 @@
 {
-"framework":"ViziApps",
-"url":"http://viziapps.com",
-"framework_current_version":"2.5.5",
-"comparison_data_last_update":"2012",
-"ios":"true",
-"android":"true",
- 
- 
- 
- 
- 
- 
- 
- 
- 
-"mobilewebsite":"true",
-"webapp":"true",
-"nativeapp":"true",
-"hybridapp":"true",
- 
- 
- 
- 
- 
- 
-"html":"true",
-"css":"true",
-"js":"true",
- 
-"visualeditor":"true",
-"accelerometer":"true",
-"camera":"true",
-"capture":"true",
-"compass":"true",
-"connection":"true",
-"contacts":"true",
-"device":"true",
-"nativeevents":"true",
-"file":"true",
-"geolocation":"true",
-"notification":"true",
-"storage":"true",
-"gestures_multitouch":"soon",
-"messages_telephone":"true",
- 
-"nfc":"true",
-"vibration":"true",
-"cd":"true",
-"widgets":"true",
- 
- 
-"encryption":"true",
- 
-"free":"true",
-"opensource":"false"
+  "languages": ["visual"],
+  "name":"ViziApps",
+  "platforms": ["ios", "android"],
+  "video": "http://viziapps.com/tutorial-videos",
+  "website":"http://viziapps.com"
 }
