@@ -12,7 +12,7 @@ Below you find the documentation for the JSON file.
 
 ## JSON
 
-```json
+```javascript
 {
   "book": "string", // url
   "documentation": "string", // url
