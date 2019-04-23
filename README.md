@@ -2,6 +2,8 @@
 
 JSON for the Mobile Frameworks Comparison Chart
 
+<img src="https://raw.githubusercontent.com/markusfalk/mobile-frameworks-comparison-data/master/mfcc.png" alt="mobile frameworks comparison chart">
+
 ## Participate
 
 Would you like to add your framework to the comparison chart? Do you want to contribute to the data that is already gathered?
