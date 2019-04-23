@@ -4,7 +4,7 @@
 
 In this repository you can find the JSON-data that is used for the  Mobile Frameworks Comparison Chart.
 
-## Participate
+## Please Contribute
 
 Would you like to add your framework to the comparison chart? Do you want to contribute to the data that is already gathered?
 
