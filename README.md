@@ -1,8 +1,8 @@
+<img src="https://raw.githubusercontent.com/markusfalk/mobile-frameworks-comparison-data/master/mfcc.png" alt="mobile frameworks comparison chart">
+
 # mobile-frameworks-comparison-data
 
-JSON for the Mobile Frameworks Comparison Chart
-
-<img src="https://raw.githubusercontent.com/markusfalk/mobile-frameworks-comparison-data/master/mfcc.png" alt="mobile frameworks comparison chart">
+In this repository you can find the JSON-data that is used for the  Mobile Frameworks Comparison Chart.
 
 ## Participate
 
@@ -10,9 +10,11 @@ Would you like to add your framework to the comparison chart? Do you want to con
 
 No Problem! All you have to do is create a pull request and let me know what you would like to change.
 
-Below you find the documentation for the JSON file.
+Below you find the documentation for the JSON files.
 
 ## JSON
+
+You can find one file per framework in `/json`.
 
 ```javascript
 {
