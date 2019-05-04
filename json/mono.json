@@ -1,0 +1,7 @@
+{
+  "documentation": "https://www.mono-project.com/docs/",
+  "languages": ["csharp"],
+  "name": "Mono",
+  "platforms": ["linux", "macos", "ios", "watchos", "tvos", "windows", "ps4", "xboxone", "bsd"], // array of strings: ["android", "wearos", "blackberryos", "firefoxos", "ios", "tizen", "watchos", "windowsphone", "windows", "macos", "linux", "raspberry"]
+  "website": "https://www.mono-project.com"
+}
