@@ -1,0 +1,8 @@
+{
+  "documentation": "https://cordova.apache.org/docs/en/latest/",
+  "languages": ["javascript", "html", "css"],
+  "name": "Cordova",
+  "platforms": ["android", "ios", "macos", "windows", "windowsphone"],
+  "tutorial": "https://cordova.apache.org/#getstarted",
+  "website": "https://cordova.apache.org"
+}
