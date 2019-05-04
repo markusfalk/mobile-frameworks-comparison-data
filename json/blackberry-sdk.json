@@ -1,0 +1,6 @@
+{
+  "languages": ["c", "cplusplus", "java", "javascript", "html", "css"],
+  "name": "Blackberry OS SDK",
+  "platforms": ["blackberryos"],
+  "website": "http://developer.blackberry.com/devzone/develop/platform_choice/index.html" 
+}
