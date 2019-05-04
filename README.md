@@ -20,9 +20,9 @@ You can find one file per framework in `/json`.
 {
   "book": "string", // url
   "documentation": "string", // url
-  "languages": "string[]", // array of strings: ["actionscript", "cplusplus", "csharp", "java", "javascript", "lua", "php", "python", "ruby", "visual", "fsharp"]
+  "languages": [""], // array of strings: ["actionscript", "cplusplus", "csharp", "java", "javascript", "lua", "php", "python", "ruby", "visual", "fsharp"]
   "name": "string",
-  "platforms": "string[]", // array of strings: ["android", "blackberryos", "firefoxos", "ios", "tizen", "watchos", "windowsphone", "windows", "macos", "linux", "raspberry"]
+  "platforms": [""], // array of strings: ["android", "wearos", "blackberryos", "firefoxos", "ios", "tizen", "watchos", "windowsphone", "windows", "macos", "linux", "raspberry"]
   "tutorial": "string", // url
   "video": "string", // url
   "website": "string" // url

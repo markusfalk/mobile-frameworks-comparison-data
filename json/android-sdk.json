@@ -1,0 +1,10 @@
+{
+  "book": "https://www.lifewire.com/top-books-on-android-app-development-2373595",
+  "documentation": "https://developer.android.com/docs",
+  "languages": ["java"], 
+  "name": "Android SDK",
+  "platforms": ["android", "wearos"],
+  "tutorial": "https://developer.android.com/guide",
+  "video": "https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg",
+  "website": "https://developer.android.com/studio"
+}
