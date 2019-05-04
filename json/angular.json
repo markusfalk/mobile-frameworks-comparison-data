@@ -1,0 +1,9 @@
+{
+  "documentation": "https://angular.io/docs",
+  "languages": ["typescript", "javascript", "html", "css"],
+  "name": "Angular PWA",
+  "platforms": ["pwa"],
+  "tutorial": "https://angular.io/guide/service-worker-intro",
+  "video": "https://www.youtube.com/watch?v=psB_Pjwhbxo&list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh",
+  "website": "https://angular.io"
+}
