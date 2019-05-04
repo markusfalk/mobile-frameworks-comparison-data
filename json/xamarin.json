@@ -1,5 +1,5 @@
 {
-  "languages": ["csharp"],
+  "languages": ["csharp", "fsharp"],
   "name": "Xamarin",
   "platforms": ["ios", "android", "windowsphone"],
   "website": "https://visualstudio.microsoft.com/de/xamarin/"
