@@ -1,6 +1,9 @@
 {
   "name": "mobile-frameworks-comparison-data",
   "version": "2.0.0",
+  "scripts": {
+    "postversion": "git push && git push --tags"
+  },
   "description": "JSON for the Mobile Frameworks Comparison Chart",
   "repository": {
     "type": "git",
