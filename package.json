@@ -1,6 +1,6 @@
 {
   "name": "mobile-frameworks-comparison-data",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "scripts": {
     "postversion": "git push && git push --tags"
   },
