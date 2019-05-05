@@ -1,0 +1,7 @@
+{
+  "languages": ["c", "cplusplus", "javascript", "html", "css"],
+  "name": "Tizen SDK",
+  "platforms": ["tizen"],
+  "tutorial": "https://developer.tizen.org/development/training/native-application",
+  "website": "https://www.tizen.org"
+}

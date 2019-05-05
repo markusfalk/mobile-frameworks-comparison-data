@@ -1,0 +1,8 @@
+{
+  "documentation": "https://docs.webix.com",
+  "languages": ["javascript", "html", "css"],
+  "name": "webix",
+  "platforms": ["pwa"],
+  "tutorial": "https://docs.webix.com/desktop__basic_tasks.html",
+  "website": "https://webix.com"
+}

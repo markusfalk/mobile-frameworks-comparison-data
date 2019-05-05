@@ -1,0 +1,8 @@
+{
+  "documentation": "https://onsen.io/v2/guide/",
+  "languages": ["javascript", "html", "css"],
+  "name": "Onsen UI",
+  "platforms": ["ios", "android", "pwa"],
+  "tutorial": "https://onsen.io/samples/",
+  "website": "https://onsen.io"
+}

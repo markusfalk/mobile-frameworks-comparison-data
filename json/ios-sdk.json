@@ -1,0 +1,10 @@
+{
+  "book": "https://www.goodreads.com/shelf/show/ios",
+  "documentation": "https://developer.apple.com/documentation/",
+  "languages": ["swift", "objectivec"],
+  "name": "iOS SDK",
+  "platforms": ["ios"],
+  "tutorial": "https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/",
+  "video": "https://developer.apple.com/videos/",
+  "website": "https://developer.apple.com/ios/"
+}

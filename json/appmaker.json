@@ -1,0 +1,8 @@
+{
+  "languages": ["visual"],
+  "name": "appmaker",
+  "platforms": ["ios", "android"],
+  "website": "https://appmaker.xyz/",
+  "documentation": "https://appmaker.xyz/docs/",
+  "tutorial": "https://appmaker.xyz/knowledgebase_category/video-tutorials-and-guides/"
+}

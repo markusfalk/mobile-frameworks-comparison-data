@@ -1,0 +1,9 @@
+{
+  "book": "http://www.reactnative.com/books/",
+  "documentation": "https://facebook.github.io/react-native/docs/getting-started",
+  "languages": ["javascript", "html", "css"],
+  "name": "React Native",
+  "platforms": ["ios", "android", "windows", "macos", "linux"],
+  "tutorial": "https://facebook.github.io/react-native/docs/tutorial.html",
+  "website": "https://facebook.github.io/react-native/"
+}

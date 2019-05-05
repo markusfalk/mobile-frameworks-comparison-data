@@ -1,0 +1,9 @@
+{
+  "documentation": "https://flutter.dev/docs",
+  "languages": ["dart"],
+  "name": "Flutter",
+  "platforms": ["ios", "android"],
+  "tutorial": "https://flutter.dev/docs/reference/tutorials",
+  "video": "https://www.youtube.com/flutterdev",
+  "website": "https://flutter.dev"
+}

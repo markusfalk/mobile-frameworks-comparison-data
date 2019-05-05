@@ -1,0 +1,10 @@
+{
+  "book": "http://watchosapps.build/",
+  "documentation": "https://developer.apple.com/documentation/watchkit",
+  "languages": ["objectivec", "swift"],
+  "name": "watchOS SDK",
+  "platforms": ["watchos"],
+  "tutorial": "https://developer.apple.com/design/human-interface-guidelines/watchos/overview/themes/",
+  "video": "https://developer.apple.com/videos/",
+  "website": "https://developer.apple.com/watchos/"
+}

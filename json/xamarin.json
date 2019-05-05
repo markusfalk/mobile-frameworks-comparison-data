@@ -1,5 +1,6 @@
 {
-  "languages": ["csharp"],
+  "languages": ["csharp", "fsharp"],
+  "tutorial": "https://docs.microsoft.com/de-de/xamarin/cross-platform/get-started/",
   "name": "Xamarin",
   "platforms": ["ios", "android", "windowsphone"],
   "website": "https://visualstudio.microsoft.com/de/xamarin/"
