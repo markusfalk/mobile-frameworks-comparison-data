@@ -1,7 +1,7 @@
 {
   "book": "https://www.lifewire.com/top-books-on-android-app-development-2373595",
   "documentation": "https://developer.android.com/docs",
-  "languages": ["java"], 
+  "languages": ["java", "kotlin"],
   "name": "Android SDK",
   "platforms": ["android", "wearos"],
   "tutorial": "https://developer.android.com/guide",
