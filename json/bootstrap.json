@@ -1,0 +1,7 @@
+{
+    "documentation": "https://getbootstrap.com/docs/",
+    "languages": ["html", "css", "javascript", "typescript"],
+    "name": "Bootstrap",
+    "platforms": ["pwa"],
+    "website": "https://getbootstrap.com/"
+  }
