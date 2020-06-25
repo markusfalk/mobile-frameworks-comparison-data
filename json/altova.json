@@ -1,0 +1,6 @@
+{
+    "languages": ["visual"],
+    "name": "Altova Mobile Together",
+    "platforms": ["android", "ios", "windows", "windowsphone"],
+    "website": "https://www.altova.com/mobiletogether"
+  }

@@ -1,0 +1,8 @@
+{
+    "documentation": "https://docs.tabris.com/latest/",
+    "languages": ["typescript", "javascript", "jsx"],
+    "name": "Tabris",
+    "tutorial": "https://tabris.com/get-started/",
+    "platforms": ["android", "ios"],
+    "website": "https://tabris.com/"
+  }

@@ -1,0 +1,8 @@
+{
+    "documentation": "https://help.syncfusion.com/",
+    "languages": ["typescript", "javascript", "html", "css"],
+    "name": "Syncfusion - third-party UI components",
+    "platforms": ["macos", "windows", "android", "ios"],
+    "video": "https://www.syncfusion.com/tutorial-videos",
+    "website": "https://www.syncfusion.com/"
+  }

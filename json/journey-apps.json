@@ -1,0 +1,6 @@
+{
+    "languages": ["typescript", "javascript"],
+    "name": "Journey Apps",
+    "platforms": ["android", "ios", "windows", "pwa"],
+    "website": "https://journeyapps.com/"
+  }
