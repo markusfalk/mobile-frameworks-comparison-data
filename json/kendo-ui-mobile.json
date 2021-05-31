@@ -1,6 +1,6 @@
 {
-  "documentation": "https://www.telerik.com/kendo-ui",
   "languages": ["javascript", "html", "css"],
   "name": "Kendo UI",
-  "platforms": ["ios", "android"]
+  "platforms": ["ios", "android"],
+  "website": "https://www.telerik.com/kendo-ui/"
 }
